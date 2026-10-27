@@ -1,0 +1,41 @@
+### STACK
+
+- Valid Parentheses
+- Min Stack
+- Daily Temperatures
+- Largest Rectangle in Histogram
+- Evaluate Reverse Polish Notation
+- Generate Parentheses
+- Car Fleet
+- Minimum Remove to Make Valid Parentheses
+- Longest Valid Parentheses
+- Max Stack
+
+
+
+### QUEUE
+
+- Implement Queue using Stacks
+- Design Circular Queue
+- Open the Lock
+- Dota2 Senate
+- Implement Stack using Queues
+
+
+### Linked List
+
+* **Add Two Numbers**
+* **Reverse Linked List**
+* **Linked List Cycle**
+* **Merge Two Sorted Lists**
+* **Merge k Sorted Lists**
+* **Remove Nth Node From End of List**
+* **Reorder List**
+* **Middle of the Linked List**
+* **Flatten Binary Tree to Linked List**
+* **Reverse Nodes in k-Group**
+* **Copy List with Random Pointer**
+* **Find the Duplicate Number**
+* **LRU Cache**
+
+

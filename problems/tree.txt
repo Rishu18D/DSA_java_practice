@@ -1,0 +1,23 @@
+This video covers a wide range of tree-based data structure interview questions. Here are the problems discussed in the course:
+
+*   Balanced Binary Tree
+*   Symmetric Tree
+*   Diameter of Binary Tree
+*   Invert/Flip Binary Tree
+*   Maximum Depth of Binary Tree
+*   Same Tree
+*   Subtree of Another Tree
+*   Count Good Nodes In Binary Tree
+*   Find Leaves of Binary Tree
+*   Binary Tree Right Side View
+*   Binary Tree Level Order Traversal
+*   Binary Tree Zigzag Level Order Traversal
+*   Construct Binary Tree from Preorder and Inorder Traversal
+*   Kth Smallest Element in a BST
+*   Validate Binary Search Tree
+*   Lowest Common Ancestor of BST
+*   Implement Trie (Prefix Tree)
+*   Design Add And Search Words Data Structure
+*   Binary Tree Maximum Path Sum
+*   Serialize and Deserialize Binary Tree
+*   Word Search II

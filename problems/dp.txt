@@ -1,0 +1,26 @@
+1. Climbing Stairs
+2. Min Cost Climbing Stairs
+3. Coin Change ⭐⭐⭐
+4. House Robber ⭐⭐⭐
+5. House Robber II ⭐⭐
+6. Unique Paths ⭐⭐⭐
+7. Decode Ways ⭐⭐⭐
+8. Longest Increasing Subsequence ⭐⭐⭐⭐
+9. Partition Equal Subset Sum ⭐⭐⭐⭐
+10. Longest Palindromic Substring ⭐⭐⭐
+
+
+This video covers 10 popular LeetCode dynamic programming problems designed to help you master 2D DP patterns. The problems discussed are:
+
+* **Best Time to Buy and Sell Stock with Cooldown**
+* **Longest Common Subsequence**
+* **Coin Change 2**
+* **Target Sum**
+* **Edit Distance**
+* **Interleaving String**
+* **Longest Increasing Path in a Matrix**
+* **Distinct Subsequences**
+* **Burst Balloons**
+* **Regular Expression Matching**
+
+
